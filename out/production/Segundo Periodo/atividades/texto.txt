@@ -1,0 +1,36 @@
+
+em protugues: Eu quero viver a beira mar
+para morse: . ..- / --.- ..- . .-. --- / ...- .. ...- . .-. / .- / -... . .. .-. .- / -- .- .-. 
+
+em morse: . ..- / --.- ..- . .-. --- / ...- .. ...- . .-. / .- / -... . .. .-. .- / -- .- .-. 
+para portugues: EU QUERO VIVER A BEIRA MAR
+
+em protugues: ola amor
+para morse: --- .-.. .- / .- -- --- .-. 
+
+em morse: --- .-.. .- / .- -- --- .-. 
+para portugues: OLA AMOR
+
+em protugues: ola
+para morse: --- .-.. .- 
+
+em protugues: ola tudo bem?
+para morse: --- .-.. .- - ..- -.. --- -... . -- 
+
+em protugues: olá tudo bem
+para morse: --- .-.. - ..- -.. --- -... . -- 
+
+em morse: --- .-.. - ..- -.. --- -... . -- 
+para portugues: OLTUDOBEM
+
+em protugues: ola tudo
+para morse: --- .-.. .- - ..- -.. --- 
+
+em protugues: ola tudo bem
+para morse: --- .-.. .- - ..- -.. --- -... . -- 
+
+em protugues: ola tudo bem
+para morse: --- .-.. .- - ..- -.. --- -... . -- 
+
+em protugues: ola tudo bem
+para morse: --- .-.. .- - ..- -.. --- -... . -- 
